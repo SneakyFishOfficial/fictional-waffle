@@ -1,0 +1,9 @@
+--------------------
+0: Chat
+1: High level chat
+2: Pathfinding
+3: Errors / Reconnects
+4: Login
+5: Plugin loading
+6: Plugin logging
+--------------------

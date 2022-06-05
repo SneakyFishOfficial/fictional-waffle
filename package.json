@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "ansi": "^0.3.1",
+    "cli-color": "^2.0.2",
+    "jetty": "^0.2.1",
+    "minecraft-data": "^3.2.0",
+    "mineflayer": "^4.3.0",
+    "mineflayer-pathfinder": "^2.1.1",
+    "mineflayer-web-inventory": "^1.8.2",
+    "prismarine-viewer": "^1.23.0"
+  }
+}
